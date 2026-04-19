@@ -1,0 +1,20 @@
+{
+  "name": "cohort-6-backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Teniola-ATD/TECH-CRUSH#readme",
+  "bugs": {
+    "url": "https://github.com/Teniola-ATD/TECH-CRUSH/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teniola-ATD/TECH-CRUSH.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

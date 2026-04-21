@@ -28,7 +28,7 @@ console.log(age.length())
 }catch(error){
     console.log("An error occurred: " + error.message);
 }
-
+//adding a comment to the last git push
 function loadUserData(userId) {
     console.log("Starting to load data...");
     try {
